@@ -1,5 +1,5 @@
 FROM almalinux:9
 LABEL author="tarun budiredla" \
-      company="Anandham Paripoornam" \
+      company="joindevops" \
       topic="dockerfiles" \
       duration="2hrs"
